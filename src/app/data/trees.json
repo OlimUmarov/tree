@@ -1,0 +1,92 @@
+[
+    {
+        "id": 756852,
+        "region": "Тошкент шахри",
+        "area": "Олмазор тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt1.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Olmazor Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756853,
+        "region": "Тошкент шахри",
+        "area": "Чилонзор тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt2.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Chilonzor Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756854,
+        "region": "Тошкент шахри",
+        "area": "Шайхонтохур тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt3.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Shayxontoxur Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756855,
+        "region": "Тошкент шахри",
+        "area": "Юнусобод тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt4.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Yunusobod Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756856,
+        "region": "Тошкент шахри",
+        "area": "Янгbхайот тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt1.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Yangixayot Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756857,
+        "region": "Тошкент шахри",
+        "area": " тумани",
+        "type": "Сергили ва ёнгок кучатлари",
+        "image": "/images/daraxt2.jpg",
+        "responsible_institution": "'Сергили' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Sergili Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756858,
+        "region": "Тошкент шахри",
+        "area": "Олмазор тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt3.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Olmazor Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 7568559,
+        "region": "Тошкент шахри",
+        "area": "Шайхонтохур тумани",
+        "type": "Мевали кучатлар",
+        "image": "/images/daraxt4.jpg",
+        "responsible_institution": "'Humo' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Shayxontoxur Tumani, Humo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756860,
+        "region": "Тошкент шахри",
+        "area": "Чилонзор тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt2.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Chilonzor Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    },
+    {
+        "id": 756861,
+        "region": "Тошкент шахри",
+        "area": "Олмазор тумани",
+        "type": "Мевали ва ёнгок кучатлари",
+        "image": "/images/daraxt3.jpg",
+        "responsible_institution": "'ZIYO' mahalla fuqarolor yig'ini",
+        "location": "O'zbekistan, 100000, Toshkent, Olmazor Tumani, Ziyo mahallasi, Talabalar ko'chasi, 4/2"
+    }
+]

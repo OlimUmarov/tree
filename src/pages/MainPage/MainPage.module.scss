@@ -1,0 +1,44 @@
+.section {
+    width: 100%;
+    min-height: calc(100vh - 69px);
+    height: 100%;
+    background-color: var(--tree-dark-blue);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.zoom {
+    position: relative;
+    width: 800px;
+    height: 500px;
+}
+
+.buttons {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    top: 10px;
+    right: 10px;
+
+    button {
+        width: 25px;
+        height: 25px;
+        cursor: pointer;
+        font-size: 20px;
+        line-height: 5px;
+        text-align: center;
+        z-index: 10;
+        border-radius: 4px;
+        border: 1px solid #000;
+    }
+}
+
+.title {
+    font-size: var(--font-size-xl);
+    color: var(--tree-white);
+    font-weight: 500;
+}

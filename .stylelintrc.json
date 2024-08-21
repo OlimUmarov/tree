@@ -1,0 +1,15 @@
+{
+  "extends": "stylelint-config-standard-scss",
+  "rules": {
+    "selector-class-pattern": null,
+    "media-feature-range-notation": null,
+		"declaration-property-value-allowed-list": {
+      "justify-content": ["flex-start", "flex-end", "center", "space-between", "space-around"],
+      "align-items": ["flex-start", "flex-end", "center", "baseline", "stretch"],
+      "align-content": ["flex-start", "flex-end", "center", "space-between", "space-around", "stretch"],  
+      "flex-direction": ["row", "row-reverse", "column", "column-reverse"],
+      "flex-wrap": ["nowrap", "wrap", "wrap-reverse"]
+    },
+    "media-feature-range-notation": null
+  }
+}

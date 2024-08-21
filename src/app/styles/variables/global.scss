@@ -1,0 +1,109 @@
+:root {
+	// text colors
+	--tree-blue: #2C55A2;
+	--tree-dark-blue: #01164A;
+	--tree-white: #FFF;
+	--tree-black: #000000;
+
+	--tree-light-black: #393939;
+	--tree-black-600: #6B6B6B;
+	--tree-black-400: #737985;
+	--tree-gray: #E7E7E7;
+	--tree-light-gray: #F6F6F6;
+	--tree-ultra-gray: #fdfcfc;
+	--tree-dark-gray: #D7D7D7;
+
+	// font sizes body text
+
+	// font sizes header text
+	--font-size-h1: 128px;
+	--font-size-h2: 96px;
+	--font-size-h3: 82px;
+	--font-size-h4: 64px;
+	--font-size-h5: 48px;
+	--font-size-h6: 42px;
+
+	// S — small, M — medium, L — large, XL — extra large
+	--font-size-xxxl: 36px;
+	--font-size-xxl: 32px;
+	--font-size-xl: 28px;
+	--font-size-l: 24px;
+	--font-size-m: 20px;
+	--font-size-s: 16px;
+
+	// widths
+	--max-width-content: 1360px;
+	--max-width-xl: 1280px;
+	--max-width-lg: 1024px;
+	--max-width-md: 768px;
+	--max-width-sm: 425px;
+	--width-scrollbar: 17px;
+
+	// paddings
+	--padding-content: 20px;
+	--padding-s: 10px;
+	--padding-m: 17px;
+	--padding-base: 33px;
+	--padding-lg: 50px;
+	--padding-xl: 100px;
+	--padding-xxl: 150px;
+	--padding-xxxl: 200px;
+
+	// border
+	--border-lg: 98px;
+	--border-round: 100%;
+	--border-l: 25px;
+	--border-m: 20px;
+	--border-main: 16px;
+	--border-s: 6px;
+
+	//margin
+	--margin-main: 80px;
+
+	// z-index
+	--z-index-header: 50;
+}
+
+@media (max-width: 1360px) {
+	:root {
+		--font-size-h1: calc((100vw - 360px) / (1360 - 360) * (128 - 96) + 96px);
+		--font-size-h2: calc((100vw - 360px) / (1360 - 360) * (96 - 36) + 36px);
+		--font-size-h3: calc((100vw - 360px) / (1360 - 360) * (82 - 41) + 41px);
+		--font-size-h4: calc((100vw - 360px) / (1360 - 360) * (64 - 28) + 28px);
+		--font-size-h5: calc((100vw - 360px) / (1360 - 360) * (48 - 24) + 24px);
+		--font-size-h6: calc((100vw - 360px) / (1360 - 360) * (42 - 22) + 22px);
+		--font-size-xxxl: calc((100vw - 360px) / (1360 - 360) * (36 - 24) + 24px);
+		--font-size-xxl: calc((100vw - 360px) / (1360 - 360) * (32 - 24) + 24px);
+		--font-size-xl: calc((100vw - 360px) / (1360 - 360) * (28 - 16) + 16px);
+		--font-size-l: calc((100vw - 360px) / (1360 - 360) * (24 - 16) + 16px);
+		--font-size-m: calc((100vw - 360px) / (1360 - 360) * (20 - 16) + 16px);
+		--font-size-s: calc((100vw - 360px) / (1360 - 360) * (18 - 14) + 14px);
+	}
+}
+
+@media (max-width: 768px) {
+	:root {
+		--margin-main: 50px;
+	}
+}
+
+@media (max-width: 500px) {
+	:root {
+		--margin-main: 40px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	:root {
+		--font-size-h1: 48px;
+		--font-size-h2: 36px;
+		--font-size-h4: 26px;
+		--font-size-h5: 24px;
+		--font-size-xxxl: 24px;
+		--font-size-xxl: 24px;
+		--font-size-xl: 16px;
+		--font-size-l: 16px;
+		--font-size-m: 16px;
+		--font-size-s: 14px;
+	}
+}

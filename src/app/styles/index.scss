@@ -1,0 +1,26 @@
+@import "reset";
+@import "variables/global";
+
+body {
+  font-family: var(--font-main);
+}
+
+section, nav {
+  padding: 0 var(--padding-content);
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+}
+
+footer {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+}
+
+.container {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+}

@@ -1,0 +1,20 @@
+.aboutPage {
+    width: 100%;
+    min-height: calc(100vh - 69px);
+    height: 100%;
+    background-color: var(--tree-dark-blue);
+}
+
+.title {
+    font-size: var(--font-size-xl);
+    color: var(--tree-white);
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.subTitle {
+    font-size: var(--font-size-s);
+    color: var(--tree-white);
+    font-weight: 400;
+    margin-top: 10px;
+}
